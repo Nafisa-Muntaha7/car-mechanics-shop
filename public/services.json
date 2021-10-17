@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "REPAIRING CAR",
+        "price": 2000,
+        "time": 2,
+        "img": "https://i.ibb.co/RpMFyn0/daniel-bestjumpstarterreview-com-jb-PWzy-KPGb-U-unsplash.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa."
+    },
+    {
+        "id": 2,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": 4200,
+        "time": 3,
+        "img": "https://i.ibb.co/H4NT7wm/tim-mossholder-Ow-BRQ0byk-X8-unsplash.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa."
+    },
+    {
+        "id": 3,
+        "name": "WHEEL ALIGNMENT",
+        "price": 2500,
+        "time": 1,
+        "img": "https://i.ibb.co/4Z06xZ1/3.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa."
+    },
+    {
+        "id": 4,
+        "name": "OIL CHANGING",
+        "price": 1000,
+        "time": 1.5,
+        "img": "https://i.ibb.co/DCyPXH4/4.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa."
+    },
+    {
+        "id": 5,
+        "name": "BRAKE REPAIRING",
+        "price": 3000,
+        "time": 2.5,
+        "img": "https://i.ibb.co/T03jYdN/5.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa."
+    },
+    {
+        "id": 6,
+        "name": "COMPLETE ANANYSIS",
+        "price": 5000,
+        "time": 3,
+        "img": "https://i.ibb.co/RQS39Tq/6.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa."
+    }
+]
